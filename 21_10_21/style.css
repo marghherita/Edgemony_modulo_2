@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+    padding: 30px;
+}
+
+.buttonStyle {
+    border-radius: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    background: #ff6700;
+    padding: 20px 30px;
+    border: none;
+
+}
